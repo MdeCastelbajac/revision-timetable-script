@@ -1,7 +1,7 @@
 # Retrospective Timetable Generator
 A Python script using bash to generate and/or update retrospective revision timetables in *xlsx* format
 
-### What is a retrospective timetable ?
+### Retrospective timetable ?
 A retrospective timetable is basically a reversed timetable where data is expressed in time-unit and sorted by subject instead of being the other way around. 
 It is supposed to be filled retrospectively, which means the table gives you the information on *what was done when (and how)* instead of *what to do next*
 
