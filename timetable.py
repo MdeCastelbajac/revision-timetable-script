@@ -14,7 +14,8 @@ from datetime import date
 
 # CONSTANT : common path to csv's : 
 commonPath = "Licence/TimeTables/"
-
+# CONSTANT : indicator
+indicator : "Confidence"
 
 def main():
     args = parseArgs()
@@ -91,12 +92,12 @@ def parseArgs():
 
 def parseColor():
     print('ui')
-    index = input("Confidence index ? <0 - 1 - 2> :")
+    index = input(indicator+"? <0 - 1 - 2>  :")
     if(index == '2'): # Green
         return "99CC00"
-    if(index == '1'): # Orange
+    if(index == '1'): # Yellow
         return "FFCC00"
-    return "FF6600"
+    return "FF6600" # Red
 
 
 main()
