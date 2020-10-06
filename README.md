@@ -3,7 +3,7 @@ A Python script using bash to generate and/or update retrospective revision time
 
 ### What is a retrospective timetable ?
 A retrospective timetable is basically a reversed timetable where data is expressed in time-unit and sorted by subject instead of being the other way around. 
-It is supposed to be filled retrospectively, which means the table gives you the information on *"what was done when (and how)"* instead of *"What to do next"*
+It is supposed to be filled retrospectively, which means the table gives you the information on *what was done when (and how)* instead of *what to do next*
 
 This typically helps organizing per-topic following through time. In my case, this applies to exams' revisions.  
 ### How it works
