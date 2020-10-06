@@ -15,7 +15,7 @@ This typically helps organizing per-topic following through time. In my case, th
 - (Optional) You may want to keep track of an indicator (urgency, difficulty, confidence, etc.) per session :
   In this case, the base version comes with a 3-color set (RYG) which you can chose from, using the command line.
   
-- Then it fills the first non-empty cell on the matching row with the current date and a bg-color, if specified (*see above*).
+- Fills the first non-empty cell on the matching row with the current date and a bg-color, if specified (*see above*),
   and opens the up-to-date timetable.
 
 
