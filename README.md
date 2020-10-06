@@ -20,6 +20,7 @@ This typically helps organizing per-topic following through time. In my case, th
 
 ### Why scripting this ?
 Xlsx file readers - such as Microsoft Excel - are really great at displaying data in an eye-catching way.
+
 But it's a pain having to manipulate them, especially with a mouse - or even worse : a touchpad.
 This script avoids this and only leaves a couple of keys for you to press to do the job.
 
